@@ -641,7 +641,7 @@ def chatgpt():
     import time
 
     # Set up OpenAI API credentials
-    openai.api_key = "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"
+    # openai.api_key = "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"
 
     # Define a function to generate responses using the GPT-3 model
     def generate_response(prompt):
